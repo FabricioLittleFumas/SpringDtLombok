@@ -1,0 +1,1 @@
+INSERT INTO noticia(id,subtitulo, texto,titulo,data_noticia) values (1,'sub 1', 'text 1','tit 1', '2020/10/25');
